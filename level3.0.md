@@ -4,7 +4,7 @@
 
 * mình đã viết một đoạn code python để đảo tìm key cần phải nhập vào
 
-``
+```
 key=list("nglfk")
 temp=""
 for i in range(2):
@@ -13,7 +13,7 @@ for i in range(2):
     key[4 - i]=temp
 
 print("".join(key))
-``
+```
 
 * sau khi được xử lí thì mình được key `kflgn`
 

@@ -1,4 +1,4 @@
-![ảnh](https://github.com/LDV-SpaceK/pwn.collage/assets/151914246/b8ace3f2-b6e1-4bc1-bcf7-29fa28206136)* mở file babyrev1 bằng ida
+* mở file babyrev1 bằng ida
 * xem hàm main dưới dạng pseudocode
 
 ![ảnh](https://github.com/LDV-SpaceK/pwn.collage/assets/151914246/27b78468-ec3a-4a42-89a5-36354cd62d5c)

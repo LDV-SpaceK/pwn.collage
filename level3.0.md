@@ -4,7 +4,16 @@
 
 * mình đã viết một đoạn code python để đảo tìm key cần phải nhập vào
 
-![ảnh](https://github.com/LDV-SpaceK/pwn.collage/assets/151914246/8e39e4bc-5735-4e15-8103-9ef2e1bbe281)
+``
+key=list("nglfk")
+temp=""
+for i in range(2):
+    temp=key[0 + i]
+    key[0+i]=key[4 - i]
+    key[4 - i]=temp
+
+print("".join(key))
+``
 
 * sau khi được xử lí thì mình được key `kflgn`
 
